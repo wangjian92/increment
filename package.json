@@ -3,6 +3,7 @@
   "displayName": "increment",
   "description": "",
   "version": "0.0.1",
+  "publisher": "wj",
   "engines": {
     "vscode": "^1.43.0"
   },
@@ -10,6 +11,10 @@
     "Formatters",
     "Other"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wangjian92/increment.git"
+  },
   "activationEvents": [
     "onCommand:extension.helloWorld",
     "onCommand:extension.incrementSelection",
